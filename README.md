@@ -1,3 +1,7 @@
+# Solutions have been uploaded
+
+
+
 # Javascript tests for applicants
 This is a repository **for employees** to review the current level of **knowledge, thinking and code quality** of interview subjects.
 
